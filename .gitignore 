@@ -1,0 +1,26 @@
+# Entornos
+.env
+.venv/
+
+# Python
+__pycache__/
+*.pyc
+
+# Tests / coverage
+.pytest_cache/
+.mypy_cache/
+.ruff_cache/
+htmlcov/
+
+# Base de datos
+*.db
+
+# Build
+dist/
+build/
+
+# OS
+.DS_Store
+
+# GitHub
+.vscode/

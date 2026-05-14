@@ -1,0 +1,14 @@
+2026-04-27 11:10:41,181 | INFO | Inicio del proceso de ingesta
+2026-04-27 11:10:41,181 | INFO | Iniciando lectura del archivo CSV
+2026-04-27 11:10:41,181 | INFO | Se leyeron 5 registros del CSV
+2026-04-27 11:10:41,181 | INFO | Calculando métricas de ventas
+2026-04-27 11:10:41,181 | INFO | Exportando métricas a JSON
+2026-04-27 11:10:41,181 | INFO | Archivo JSON generado correctamente: /Users/emanuellegorreta/Documents/mi_proyecto/metricas_ventas.json
+2026-04-27 11:10:41,181 | INFO | Proceso finalizado correctamente
+2026-04-27 11:16:30,312 | INFO | Inicio del proceso de ingesta
+2026-04-27 11:16:30,312 | INFO | Iniciando lectura del archivo CSV
+2026-04-27 11:16:30,313 | INFO | Se leyeron 5 registros del CSV
+2026-04-27 11:16:30,313 | INFO | Calculando métricas de ventas
+2026-04-27 11:16:30,313 | INFO | Exportando métricas a JSON
+2026-04-27 11:16:30,313 | INFO | Archivo JSON generado correctamente: /Users/emanuellegorreta/Documents/mi_proyecto/metricas_ventas.json
+2026-04-27 11:16:30,313 | INFO | Proceso finalizado correctamente

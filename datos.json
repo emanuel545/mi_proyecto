@@ -1,0 +1,20 @@
+[
+  {
+    "nombre": "Ana",
+    "edad": 25,
+    "correo": "ana@example.com",
+    "activo": true
+  },
+  {
+    "nombre": "Luis",
+    "edad": 17,
+    "correo": "luis@example.com",
+    "activo": false
+  },
+  {
+    "nombre": "Marta",
+    "edad": 32,
+    "correo": "correo_invalido",
+    "activo": true
+  }
+]

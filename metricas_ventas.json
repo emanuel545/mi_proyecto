@@ -1,0 +1,9 @@
+{
+  "fecha_generacion": "2026-04-27T11:16:30.313242",
+  "total_ventas": 39051.0,
+  "total_productos": 15,
+  "ventas_por_categoria": {
+    "Tecnologia": 29151.0,
+    "Oficina": 9900.0
+  }
+}
